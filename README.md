@@ -4,7 +4,7 @@
 ![IBM Cloud](https://img.shields.io/badge/IBM-Cloud-blue) 
 ![Watsonx](https://img.shields.io/badge/IBM-Watsonx-brightgreen) 
 ![AI](https://img.shields.io/badge/AI-Agentic-orange) 
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## 🚀 Overview  
 The **IBM Watsonx Agentic AI Research Assistant** is an AI-powered tool designed to automate and enhance academic and industrial research workflows. Built using **IBM Watsonx Studio** and **IBM Granite LLMs**, the agent autonomously performs literature reviews, summarizes research papers, manages citations, generates structured reports, and suggests hypotheses for future research.  
@@ -92,5 +92,3 @@ This project showcases the power of **Agentic AI** in revolutionizing academic a
 
 ---
 
-## 🤝 Contribution  
-Feel free to fork the repository, open issues, and submit pull requests to improve the project and add new features.  
